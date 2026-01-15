@@ -37,6 +37,3 @@ Global exception handling with clean JSON responses
 
 ✅ Conclusion
 This project demonstrates a real-world secure backend system using JWT Authentication, suitable for banking and enterprise applications.
-________________________________________
-💻 Developed by: Gururaj Dharmashetti
-
