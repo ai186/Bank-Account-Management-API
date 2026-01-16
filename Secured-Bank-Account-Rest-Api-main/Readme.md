@@ -1,5 +1,5 @@
-🏦Banking Application – JWT Secured (Spring Boot)
-📌 Project Overview
+Banking Application – JWT Secured (Spring Boot)
+ Project Overview
 This project is a Banking Application built using Spring Boot (Backend)  with JWT-based Authentication.
 It supports secure login, account management, and transaction operations (deposit & withdraw). All sensitive APIs are protected using Spring Security + JWT
 
@@ -25,7 +25,7 @@ Authentication Flow (JWT)
 6.	JWT filter validates token for every request
 
 
-🚀 Features
+ Features
 
 Create new bank accounts
 View account details by ID
@@ -35,5 +35,5 @@ View all accounts
 Delete an account
 Global exception handling with clean JSON responses
 
-✅ Conclusion
+ Conclusion
 This project demonstrates a real-world secure backend system using JWT Authentication, suitable for banking and enterprise applications.
